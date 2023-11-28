@@ -31,10 +31,6 @@ import 'package:provider/provider.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 
-// http://VBH6THRIZZW5HWTDV35RLXHHT4UH3S74@patrik.1presta.cz/api/
-
-//  1//09IntmxmLSQLOCgYIARAAGAkSNwF-L9Ir0wF91LwXkYrZsIm9U99bX7VKe2U8Jz7VwBMZ3eulXHjn0rEtEopM2X_MoMwxAOUONys
-
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
