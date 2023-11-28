@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601249425483",
+    "project_id": "viwi-c867a",
+    "storage_bucket": "viwi-c867a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601249425483:android:39650d8ecd6d3c60da85ce",
+        "android_client_info": {
+          "package_name": "com.viwi.viwi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601249425483-1dmq1kuvvt33paqhdqmubi3nbqlf3367.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaoAvHhw4wapOXsy6WQII-Ig485KPZcpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601249425483-1dmq1kuvvt33paqhdqmubi3nbqlf3367.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
